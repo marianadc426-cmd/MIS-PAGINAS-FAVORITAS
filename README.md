@@ -1,7 +1,7 @@
 <HTML>
 <head>
 </head>
-<body bgcolor="#A7C7E7">
+<body style="background-color;#A7C7E7">
 <center>
     <h1>PAGINAS WEB FAVORITAS</h1>
 <br>
@@ -11,25 +11,25 @@
 <br>
 
 <table border="3">
-<tr bgcolor="#FFB7C5">
+<tr style="background-color:#FFB7C5">
 <th>TEMA</th>
 <th>WEB</th>
 <th>DESCRIPCION</th>
 </tr>
 
-<tr bgcolor="#FFDAB9">
+<tr style="background-color:"#FFDAB9">
 <td>Juegos</td>
 <td> <a href="https://es.y8.com/" target="blank">Y8 Games</a></td>
 <td>Sitio con miles de juegos gratuitos en línea.</td>
 </tr>
 
-<tr bgcolor="#FFDAB9">
+<tr style="background-color:"#FFDAB9">
 <td>Peliculas</td>
 <td> <a href="https://www.plex.tv/es/watch-free-/" target="blank">Plex</a></td>
 <td>Plataforma con miles de películas, series y documentales gratis.</td>
 </tr>
 
-<tr bgcolor="#FFDAB9">
+<tr style="background-color:"#FFDAB9">
 <td>Musica</td>
 <td> <a href="https://open.spotify.com/intl-es/" target="blank">Spotify</a></td>
 <td>Plataforma para escuchar música en streaming.</td>
