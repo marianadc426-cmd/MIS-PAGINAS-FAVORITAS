@@ -19,19 +19,19 @@
 
 <tr bgcolor="#FFDAB9">
 <td>Juegos</td>
-<td> <a href=https://es.y8.com/ target="blank">Y8 Games</a></td>
+<td> <a href="https://es.y8.com/" target="blank">Y8 Games</a></td>
 <td>Sitio con miles de juegos gratuitos en línea.</td>
 </tr>
 
 <tr bgcolor="#FFDAB9">
 <td>Peliculas</td>
-<td> <a href=https://www.plex.tv/es/watch-free-/ target="blank">Plex</a></td>
+<td> <a href="https://www.plex.tv/es/watch-free-/" target="blank">Plex</a></td>
 <td>Plataforma con miles de películas, series y documentales gratis.</td>
 </tr>
 
 <tr bgcolor="#FFDAB9">
 <td>Musica</td>
-<td> <a href=https://open.spotify.com/intl-es/ target="blank">Spotify</a></td>
+<td> <a href="https://open.spotify.com/intl-es/" target="blank">Spotify</a></td>
 <td>Plataforma para escuchar música en streaming.</td>
 </tr>
 </table>
